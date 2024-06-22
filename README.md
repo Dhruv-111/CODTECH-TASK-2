@@ -73,6 +73,6 @@ The time module is utilized to add delays between rounds using time.sleep(). Thi
 
 ### OUTPUT
 ![image](https://github.com/Dhruv-111/CODTECH-TASK-2/assets/135569799/80d6c19f-6f18-4b18-8a94-797398c26b7c)
-![image](https://github.com/Dhruv-111/CODTECH-TASK-2/assets/135569799/12b8ae27-537a-40cb-97a2-ef44ca957d2b)
+![image](https://github.com/Dhruv-111/CODTECH-TASK-2/assets/135569799/bc655d1c-154a-4f5b-9809-470f4d8c79ed)
 ![image](https://github.com/Dhruv-111/CODTECH-TASK-2/assets/135569799/da92bec2-8680-423d-9305-a6c559b04a28)
 
