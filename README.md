@@ -63,5 +63,16 @@ Post-Simulation Analysis: After completing the simulation, analyze the results t
 
 **Python Programming Language:** The entire program is written in Python, a high-level, general-purpose programming language known for its readability and versatility.
 
+**Random Module:**
+
+The random module is employed to introduce randomness in the simulation. It is used for selecting attack types, sophistication levels, target devices, and determining the success or failure of the Blue Team's response. This helps in creating a more realistic and unpredictable simulation environment.
+
+**Time Module:**
+
+The time module is utilized to add delays between rounds using time.sleep(). This introduces a wait time between each iteration, mimicking real-world conditions where events do not occur instantaneously.
 
 ### OUTPUT
+![image](https://github.com/Dhruv-111/CODTECH-TASK-2/assets/135569799/80d6c19f-6f18-4b18-8a94-797398c26b7c)
+![image](https://github.com/Dhruv-111/CODTECH-TASK-2/assets/135569799/12b8ae27-537a-40cb-97a2-ef44ca957d2b)
+![image](https://github.com/Dhruv-111/CODTECH-TASK-2/assets/135569799/da92bec2-8680-423d-9305-a6c559b04a28)
+
